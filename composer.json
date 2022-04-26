@@ -1,0 +1,21 @@
+{
+    "name": "alzpk/laraslug",
+    "description": "Small package that it easy to create slug for laravel models",
+    "type": "package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Michael Hansen",
+            "email": "mh1986@outlook.dk"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Alzpk\\Laraslug\\": "src/"
+        }
+    },
+    "require": {
+        "php": "^7.3|^8.0"
+    }
+}
