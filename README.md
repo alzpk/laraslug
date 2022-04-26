@@ -1,5 +1,5 @@
 # Laraslug
-Small package that it easy to create slug for laravel models
+Small package that makes it easy to create slug for laravel models
 
 ### Installation
 
